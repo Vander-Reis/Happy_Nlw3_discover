@@ -21,13 +21,10 @@ https://user-images.githubusercontent.com/77352309/121071686-a6b04300-c7a6-11eb-
 
  ## 🚀 Technologies
  
- <div>
-    <p>HTML5</p>  
-    <p>CSS3</p>  
-    <p>Node.js</p>  
-    <p>Express</p>  
-    <p>SQLite</p>  
-    <p>handlebars</p>  
-    
- </div>
+- HTML and CSS
+- JavaScript
+- Node.js
+- Express
+- SQLite
+- handlebars
 
