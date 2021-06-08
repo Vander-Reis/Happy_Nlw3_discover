@@ -42,7 +42,7 @@ This project was developed using the following technologies:
 ```npm install sqlite-async```
 
 
-## 💻 Projeto
+## 💻 Project
 
 Happy é um projeto que veio para facilitar as visitas aos orfanatos próximos a você. 
 
@@ -52,4 +52,4 @@ O projeto foi desenvolvido durante a **[Next Level Week](https://nextlevelweek.c
   
 ```npm start``` 
 
-
+<p align="center">Desenvolvido por <strong><em>Vander F. O. Reis</em></strong></p>
