@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/77352309/121071686-a6b04300-c7a6-11eb-
 
 
  ## 🚀 Technologies
- 
+This project was developed using the following technologies: 
 - HTML 
 - CSS
 - JavaScript
@@ -28,4 +28,14 @@ https://user-images.githubusercontent.com/77352309/121071686-a6b04300-c7a6-11eb-
 - Express
 - SQLite
 - handlebars
+
+## installations
+
+```npm install express```
+
+```npm install nodemon```
+
+```npm install hbs```
+
+```npm install sqlite-async```
 
